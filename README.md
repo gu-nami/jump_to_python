@@ -101,7 +101,7 @@ else : print('성인')
 > &nbsp;
 > ##### if, elife, else를 사용할 때 기본 구조 
 > &nbsp;
->##### ==if== 조건문:
+>##### if 조건문:
 >
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장1-1
 >
@@ -109,21 +109,21 @@ else : print('성인')
 >
 >##### &nbsp;&nbsp;&nbsp;&nbsp;   ...
 >
->##### ==elife== 조건문 2:
+>##### elife 조건문 2:
 >   
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장2-1
 >
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장2-2
 >##### &nbsp;&nbsp;&nbsp;&nbsp; ...
 >
->##### ==elife== 조건문 N:
+>##### elife 조건문 N:
 >   
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장N-1
 >
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장N-2
 >##### &nbsp;&nbsp;&nbsp;&nbsp; ...
 >
->##### ==else==:
+>##### else:
 >   
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장A
 >
