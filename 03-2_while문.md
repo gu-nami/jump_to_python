@@ -1,19 +1,18 @@
 
 # 제어문
----
 ## 02. while문
 * ##### 반복해서 문장을 수행해야 할 경우 while문 사용
 
 >* ##### while문의 기본 구조
 >
-> &nbsp;
+> ---
 >##### while 조건문:
 >
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장1
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장2
 >##### &nbsp;&nbsp;&nbsp;&nbsp; 수행할 문장3
 >##### &nbsp;&nbsp;&nbsp;&nbsp;   ...
-> &nbsp;
+> ---
 > ##### 조건문이 참인 동안에 while문 아래의 문장이 반복해서 수행된다.
 >  ##### ex) '열 번 찍어 안 넘어가는 나무 없다'는 속담을 파이썬으로 나타내기
 >```python
